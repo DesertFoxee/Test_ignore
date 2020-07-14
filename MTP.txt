@@ -3,6 +3,7 @@ Day la thay doi
 
 Nhu cai dau buoi
 
+<<<<<<< HEAD
 Toi dinh luu vao stash 
 
 Tiep tuc thay doi 
@@ -12,3 +13,5 @@ Tiep tuc thay doi 2
 Them file MTP local
 
 Toi tiep tuc thay doi GitHub
+=======
+>>>>>>> parent of 5504eef... Them file MTP local
